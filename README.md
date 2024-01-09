@@ -8,11 +8,11 @@ Background GIF by [spacemeoww__](https://pin.it/Dz3KHp6) on [Pinterest](https://
 
 </div>
 
-- 💼 I am currently working as a FrontEnd Developer at Rakhasa as a global IT services company.
+- 💼 I am currently working as a FrontEnd Developer at [Rakhasa](https://rakhasa.com) as a global IT services company.
 - 🚀 I am very interested in App development
-- 💥 I love contributing to the community, and now I'm developing a digital system for one of the Discord communities in Indonesia, Gang Sebelah.
+- 💥 I love contributing to the community, and now I'm developing a digital system for one of the Discord communities in
+  Indonesia, [Gang Sebelah](https://gangsebelah.com).
 - 💢 Fun fact: I love to discuss, exercise, and singing.
-
 
 <div align="center">
 
@@ -22,7 +22,7 @@ Background GIF by [spacemeoww__](https://pin.it/Dz3KHp6) on [Pinterest](https://
 
 ## 💻 My Tech Stack:
 
-[![Next.js, React, Node.js, JavaScript, TypeScript, tailwind, CSS, MongoDB](https://skillicons.dev/icons?i=next,react,nodejs,js,ts,tailwind,css,mongodb)](https://skillicons.dev)
+[![Next.js, React, Node.js, JavaScript, TypeScript, tailwind, CSS, MongoDB, GIT](https://skillicons.dev/icons?i=next,react,nodejs,js,ts,tailwind,css,mongodb,git)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
@@ -31,11 +31,12 @@ Background GIF by [spacemeoww__](https://pin.it/Dz3KHp6) on [Pinterest](https://
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=do-zoo&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
-
 ## Others:
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) &nbsp;
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+<p>
+    <a target="_blank"href="https://open.spotify.com/user/31cxz2xpakdrtnesnjjpokyjuqxq"><img alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://discord.com"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;
+</p>
 
 </div>
 
