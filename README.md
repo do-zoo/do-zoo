@@ -34,8 +34,8 @@ Background GIF by [spacemeoww__](https://pin.it/Dz3KHp6) on [Pinterest](https://
 ## Others:
 
 <p>
-    <a target="_blank"href="https://open.spotify.com/user/31cxz2xpakdrtnesnjjpokyjuqxq"><img alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;
-    <a target="_blank"href="https://discord.com"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://open.spotify.com/user/31cxz2xpakdrtnesnjjpokyjuqxq" ><img alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://discord.com"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
 </div>
